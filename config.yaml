@@ -37,14 +37,14 @@ date:
 
 # Remove hash sign to add positions. You can add as many as you need, but preserve formatting
 positions:
- #- First position
- #- A second position
- #- A third position
- #- ...
+ - Software Developer
+ - Software Engineer
+ - Engineer
+ - Developer
 
 # Remove hash sign to add locations. You can add as many as you need including adding 'Remote' as a location but first location must be a valid country.
 locations:
- #- First location
+ - United States
  #- A second location
  #- A third location
  #- ...
@@ -199,14 +199,14 @@ experience:
 
 # ------------ Additional parameters: personal info ---------------
 personalInfo:
- First Name: FirstName
- Last Name: LastName
- Phone Country Code: Canada (+1) # See linkedin for your country code, must be exact according to the international platform, i.e. Italy (+39) not Italia (+39)
- Mobile Phone Number: 1234567890
- Street address: 123 Fake Street
- City: Red Deer, Alberta # Include the state/province as well!
- State: YourState
- Zip: YourZip/Postal
+ First Name: Bobby
+ Last Name: Smith
+ Phone Country Code: United States (+1) # See linkedin for your country code, must be exact according to the international platform, i.e. Italy (+39) not Italia (+39)
+ Mobile Phone Number: 5713315417
+ Street address: 619 N Jordan St
+ City: Alexandria, VA  # Include the state/province as well!
+ State: VA
+ Zip: 22304
  Linkedin: https://www.linkedin.com/in/my-linkedin-profile
  Website: https://www.my-website.com # github/website is interchangeable here
  MessageToManager: "Hi, I am a qualified professional with well decorated career and diversified experience. 

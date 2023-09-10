@@ -1,0 +1,85 @@
+text,street address line 1
+text,"city
+city"
+text,state
+text,zip / postal code
+text,how many years of work experience do you have with solidworks?
+text,how many years of work experience do you have with computer numerical control (cnc)?
+text,how many years of work experience do you have with computer numerical control (cnc)?
+text,how many years of work experience do you have with cnc programming?
+text,how many years of work experience do you have with machine tools?
+text,how many years of work experience do you have with cmm?
+text,how many years of work experience do you have with pc-dmis?
+text,how many years of work experience do you have with lawson hris?
+text,how many years of work experience do you have with lawson general ledger?
+dropdown,"this is not a remote job. are you willing to work from the addison tx (suburb of dallas tx) office three days a week? 
+this is not a remote job. are you willing to work from the addison tx (suburb of dallas tx) office three days a week?"
+text,how many years of work experience do you have with high-frequency trading?
+text,how many years of work experience do you have with working experience?
+text,how many years of work experience do you have with amazon web services (aws)?
+text,how many years of work experience do you have with jenkins?
+text,how many years of work experience do you have with docker products?
+text,how many years of work experience do you have with growth hacking?
+text,how many years of software development experience do you currently have?
+text,how many years of work experience do you have with javascript?
+dropdown,"are you based out of sf or nyc? 
+are you based out of sf or nyc?"
+text,how many years of work experience do you have with calypso?
+text,how many years of work experience do you have with c++?
+text,how many years of work experience do you have with linux?
+text,how many years of eng experience do you currently have?
+text,how many years of work experience do you have with embedded systems?
+dropdown,"are you based in st. louis or willing to relocate to the st. louis region?
+are you based in st. louis or willing to relocate to the st. louis region?"
+text,how many years of work experience do you have with servicenow?
+radio,"are you comfortable working in an onsite setting?
+are you comfortable working in an onsite setting?
+required
+yes
+no"
+dropdown,"are you a u.s. citizen?
+are you a u.s. citizen?"
+dropdown,"do you hold a current forescout certified engineer (fsce) certification?
+do you hold a current forescout certified engineer (fsce) certification?"
+dropdown,"if necessary, are you willing to relocate to the greater colorado springs area? 
+if necessary, are you willing to relocate to the greater colorado springs area?"
+text,how many years of work experience do you have with precision machining?
+text,how many years of work experience do you have with cnc programming?
+radio,"are you comfortable working in a hybrid setting?
+are you comfortable working in a hybrid setting?
+required
+yes
+no"
+text,how many years of work experience do you have with rest apis?
+text,how many years of work experience do you have with javascript?
+text,how many years of work experience do you have with linux?
+radio,"are you comfortable working in an onsite setting?
+are you comfortable working in an onsite setting?
+required
+yes
+no"
+dropdown,"do you have an active ts/sci with poly?
+do you have an active ts/sci with poly?"
+text,how many years of work experience do you have with etl tools?
+text,how many years of work experience do you have with c#?
+text,how many years of work experience do you have with asp.net?
+radio,"are you comfortable working in a hybrid setting?
+are you comfortable working in a hybrid setting?
+required
+yes
+no"
+text,how many years of work experience do you have with .net core?
+dropdown,"this is a hybrid role (4 remote, 1 in office) role within the atlanta metro area. are you currently located within the atlanta area, or planning on moving to atlanta for this role?
+this is a hybrid role (4 remote, 1 in office) role within the atlanta metro area. are you currently located within the atlanta area, or planning on moving to atlanta for this role?"
+text,how many years of work experience do you have with ruby on rails?
+dropdown,"have you worked on an app (or an integration) that dealt with inventory, finance/accounting, or ecommerce? 
+have you worked on an app (or an integration) that dealt with inventory, finance/accounting, or ecommerce?"
+dropdown,"do you work remotely now, or have you worked remotely for a company in the past?
+do you work remotely now, or have you worked remotely for a company in the past?"
+text,how many years of work experience do you have with sharepoint?
+text,how many years of work experience do you have with opentext products?
+dropdown,"have you developed opentext or livelink applications?
+have you developed opentext or livelink applications?"
+text,how many years of computer and network security experience do you currently have?
+text,how many years of work experience do you have with user datagram protocol (udp)?
+text,how many years of work experience do you have with c (programming language)?

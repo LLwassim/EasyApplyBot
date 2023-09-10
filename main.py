@@ -21,7 +21,7 @@ def init_browser():
         browser_options.add_argument(option)
 
     service = Service(ChromeDriverManager().install())
-    driver = webdriver.Chrome(service=service, options=browser_options)
+    driver = webdriver.Chrome()
     driver.set_window_position(0, 0)
     driver.maximize_window()
     return driver
